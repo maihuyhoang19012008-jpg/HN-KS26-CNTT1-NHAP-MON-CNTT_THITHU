@@ -1,0 +1,7 @@
+﻿=== BAO CAO LOI ===
+2025-10-28 08:24:28 [ERROR] Thanh toan bi tu choi
+2025-10-28 08:30:28 [ERROR] Thanh toan bi tu choi
+2025-10-28 08:33:28 [ERROR] Ket noi kho du lieu that bai
+2025-10-28 08:39:28 [ERROR] Ket noi kho du lieu that bai
+2025-10-28 08:42:28 [ERROR] Ket noi kho du lieu that bai
+2025-10-28 09:12:28 [ERROR] Thanh toan bi tu choi
