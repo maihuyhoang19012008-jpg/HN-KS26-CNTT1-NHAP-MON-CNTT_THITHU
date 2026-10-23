@@ -1,0 +1,13 @@
+﻿NHẬP HÀNG 
+DANH SÁCH HÀNG CẬP NHẬT TỪNG NGÀY 
+
+
+TÊN HÀNG 
+	SỐ LƯỢNG 
+	TỔNG GIÁ TRỊ HÀNG 
+	BÚT
+	500 HỘP
+	2500000
+	VỞ 
+	1000 CUỐN 
+	1000000
